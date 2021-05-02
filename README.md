@@ -1,6 +1,11 @@
 # Portfolio Optimization with Quadratic Transaction Costs
 
-`arxiv` is our final report, `market_impact_final` is our documented code for the implementation of the Market Impact Model as stated in Frazzini et al (2018).  `code` is our backtesting using alphas from non-linear factor modelling on US equities using RNNs. This includes implementation for the Optimized Market Impact portfolio and the Optimized Mean-Variance portfolio.
+- `arxiv` is our final report.
+- `market_impact_final` is our documented code for the implementation of the Market Impact Model in Frazzini et al (2018), to estimate the transaction cost of any arbitrary trade. 
+- `code` is our backtesting using alphas from non-linear factor modelling on US equities using RNNs, which also includes implementation for the Optimized Market Impact portfolio and the Optimized Mean-Variance portfolio. 
+- `pf_daily-final` and `pf_results-final` contains our backtest results.
+- Macquarie Quant Alpha Model numbers are taken from Borghi & Giuliano (2020).
+
 
 ## Results
 
@@ -16,7 +21,6 @@
 | No. of Observations       | 11            | 11            | 95          |
 
 
-Macquarie Quant Alpha Model numbers are taken from Borghi & Giuliano (2020). `pf_daily-final` and `pf_results-final` contains our backtest results.
 
 ![Results](https://github.com/mingboi95/portfolio_optimization/blob/main/Backtest-daily-no-trading-costs.png?raw=true)
 
