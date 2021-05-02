@@ -8,6 +8,7 @@
 
 
 ## Results
+![Results](https://github.com/mingboi95/portfolio_optimization/blob/main/Backtest-daily-no-trading-costs.png?raw=true)
 
 |                           | Mean-Variance | Market Impact | Alpha Model |
 |---------------------------|---------------|---------------|-------------|
@@ -19,10 +20,6 @@
 | Avg. Turnover – Optimized | -1.35         | -1.37         | 1.39        |
 | Max Drawdown              | 42.2%         | 42.9%         | 11.9%       |
 | No. of Observations       | 11            | 11            | 95          |
-
-
-
-![Results](https://github.com/mingboi95/portfolio_optimization/blob/main/Backtest-daily-no-trading-costs.png?raw=true)
 
 
 ## Credits
